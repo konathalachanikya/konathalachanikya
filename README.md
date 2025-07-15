@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm [Chanikya Konathala ]</h1>
-<h3 align="center">Aspiring ECE student from India 🇮🇳</h3>
+<h3 align="center">Aspiring ECE student from India</h3>
 
 ---
 
@@ -47,6 +47,4 @@ Here are some ideas to get you started:
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img
+
