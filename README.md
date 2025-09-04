@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ### 🛠️ Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,html,css,js,python,arduino,git,github,vscode,matlab" />
+  <img src="https://skillicons.dev/icons?i=c,c++,html,css,js,python,numpy,pandas,matplotlib,jupiternotebookarduino,git,github,vscode,matlab" />
 
   
 </p>
