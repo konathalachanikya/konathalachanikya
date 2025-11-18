@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ---
 
-- 🌱 I’m currently learning **Web Development, JavaScript, and Python,machine learning**
+- 🌱 I’m currently learning **Web Development, and Python,machine learning**
 - 💻 I love building web projects and exploring new technologies
 - 💬 Ask me about HTML, CSS, JavaScript,  Python.
 - 📫 How to reach me: [chanikyakonathala45@gmail.com](mailto:chanikyakonathala45@gmail.com)
@@ -31,6 +31,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/chanikya-konathala/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
   <a href="https://github.com/konathalachanikya" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
   <a href="https://www.instagram.com/_passionate_chanikya_/?hl=en" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+  <a href="https://www.codechef.com/users/chanikya_k" target="blank"><img align="center" src="https://skillicons.dev/icons?i=CodeChef" height="40" /></a>
   <a href="https://leetcode.com/u/Chanikya_konathala/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" /></a>
   
   
